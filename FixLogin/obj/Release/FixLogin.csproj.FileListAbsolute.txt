@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\bin\Release\FixLogin.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\bin\Release\FixLogin.exe
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\bin\Release\FixLogin.pdb
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\obj\Release\FixLogin.Form1.resources
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\obj\Release\FixLogin.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\obj\Release\FixLogin.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\obj\Release\FixLogin.exe
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\obj\Release\FixLogin.pdb
+c:\users\michael\documents\visual studio 2013\Projects\FixLogin\FixLogin\obj\Release\FixLogin.csprojResolveAssemblyReference.cache
